@@ -1,6 +1,6 @@
 # Duplications and Expression2 - log and backup
 
-Backup of my duplications and scripts for [Garry's mod](https://gmod.facepunch.com/).  
+Backup of my duplications and scripts for [Garry's mod](https://gmod.facepunch.com/). These files are __years__ of experiments and concepts of in-game vehicles.  
 
-These files are years of experiments and concepts of in-game vehicles.  
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Garry%27s_Mod_logo.svg/1200px-Garry%27s_Mod_logo.svg.png" style="width: 20%">
